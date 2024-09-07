@@ -1,0 +1,25 @@
+@import url("https://use.typekit.net/ymm5trk.css");
+
+
+html {
+    font-size: 100%;
+}
+
+body {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+    color: #353535;
+    background-color: #EBEBEB;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #004038;
+    font-weight: 300;
+    width: 33rem;
+    line-height: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+}
